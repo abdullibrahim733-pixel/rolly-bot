@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# ESP32/MicroPython (ignore actual credentials, but template is tracked)
+/src/secrets.py
+data/
+*.uf2
+secrets_local.py
+
+# Logs
+*.log
