@@ -1,10 +1,9 @@
-Component,Description,Quantity,Unit Cost,Total Cost,Supplier,Part Number
-ESP32-S3,Main microcontroller,1,8.00,8.00,AliExpress,N/A
-0.96" OLED,I2C Display 128x64,1,3.50,3.50,AliExpress,SSD1306
-HC-SR04,Ultrasonic Sensor,1,2.00,2.00,AliExpress,N/A
-PCB,Custom board (V1.0),1,5.00,5.00,JLCPCB,N/A
-Acrylic Sheet,Chassis material,1,3.00,3.00,Local,3mm
-PVC Sheet,Structural support,1,2.00,2.00,Local,2mm
-Wires,Connecting wires,1,1.00,1.00,Local,N/A
-Headers,Pin headers,1,0.50,0.50,AliExpress,N/A
-Total,,,,25.00,,
+Name,Amount,Price,Source,Link
+NodeMCU ESP32-S3,1,8.50,AliExpress,https://aliexpress.com/example-esp32
+0.96 inch OLED Display,1,3.20,AliExpress,https://aliexpress.com/example-oled
+HC-SR04 Ultrasonic Sensor,1,1.50,Local Shop,https://example.com/sensor
+Custom PCB (VEX Rolly V1.0),1 (5),$2.00,JLCPCB,https://jlcpcb.com
+L298N Motor Driver,1,2.80,Amazon,https://amazon.com/example-l298n
+12V Li-ion Battery Pack,1,15.00,Local Shop,https://example.com/battery
+M3 10mm Standoffs,10,1.20,Me,https://example.com/standoffs
+PVC Chassis Material,1,0.00,Recycled,https://example.com/recycled
